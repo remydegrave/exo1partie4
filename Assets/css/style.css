@@ -1,0 +1,37 @@
+#container{
+    width: 500px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+#container div{
+    color: #ffffff;
+    padding: 20px;
+}
+#block1{
+    background-color: #B03532;
+}
+#block2{
+    background-color: #33A8A5;
+}
+#block3{
+    background-color: #30997a;
+}
+#block4{
+    background-color:#6A478F;
+}
+#block5{
+    background-color:#DA6F2B;
+}
+#block6{
+    background-color:#4464A1;
+}
+#block7{
+    background-color:#E03F3F;
+}
+#block8{
+    background-color:#59A627;
+}
+#block9{
+    background-color:#4464A1;
+}
